@@ -34,7 +34,7 @@ namespace IndiePaint
         }
         
 
-        // Simple Canvas Clear on button puss
+        // Simple Canvas Clear on button push
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Canvy.Strokes.Clear();
